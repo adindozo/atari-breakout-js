@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.grid{
+    width: 895px;
+    height: 600px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 5px;
+    position: relative;
+}
+
+.block{
+    width: 100px;
+    height: 20px;
+    background-color: teal;
+    position: absolute;
+    
+}
+
+.platform{
+    width: 200px;
+    height: 15px;
+    background-color: black;
+    position: absolute;
+    border-radius: 15px;
+
+}
+
+.ball{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: black;
+    position: absolute;
+
+
+}
+.credits{
+    width: 895px;
+   
+    text-align: right;
+    margin: auto;
+    
+
+}
